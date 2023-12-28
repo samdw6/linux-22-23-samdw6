@@ -1,0 +1,11 @@
+recordid,occupation,open,operatorinfo,freecapacity,description,lastupdate,name,openingtimedescription,type,categorie,totalcapacity,freeparking
+"e651b854ecadf49682e50af7970154935e5e66b3",69,1,"Mobiliteitsbedrijf Gent",183,"Ondergrondse parkeergarage Vrijdagmarkt in Gent","2022-11-25T15:51:47+01:00","Vrijdagmarkt","24/7","carPark","parking in LEZ",605,0
+"f6f244aa5f77784c7c535ff2e81157c616011f21",78,1,"Mobiliteitsbedrijf Gent",64,"Ondergrondse parkeergarage Sint-Michiels in Gent","2022-11-25T15:51:47+01:00","Sint-Michiels","24/7","carPark","parking in LEZ",304,0
+"4ba29e7caabd4325d71de2789795b5cad836108f",50,1,"Mobiliteitsbedrijf Gent",260,"Ondergrondse parkeergarage Savaanstraat in Gent","2022-11-25T15:51:47+01:00","Savaanstraat","24/7","carPark","parking in LEZ",530,0
+"2e5a63b0adbb759a0a8abbe120591cd113a16e99",66,1,"Mobiliteitsbedrijf Gent",237,"? parkeergarage Sint-Pietersplein in Gent","2022-11-25T15:51:47+01:00","Sint-Pietersplein","24/7","carPark","parking in LEZ",698,0
+"3f21e78500ca0d64a410d4f40a60e2f158abaac2",96,1,"Mobiliteitsbedrijf Gent",9,"Ondergrondse parkeergarage Ramen in Gent","2022-11-25T15:51:47+01:00","Ramen","24/7","carPark","parking in LEZ",260,0
+"18abdeef1cdf0625274c70eb1b33b806d26f3aa1",47,1,"Mobiliteitsbedrijf Gent",79,"Ondergrondse parkeergarage Tolhuis in Gent","2022-11-25T15:51:47+01:00","Tolhuis","24/7","offStreetParkingGround","parking in LEZ",150,0
+"19723b7cf22b64f18acbdc8071d769ff3c7ef45e",18,1,"Mobiliteitsbedrijf Gent",408,"Bovengrondse parkeergarage Ledeberg in Gent","2022-11-25T15:51:47+01:00","Ledeberg","24/7","offStreetParkingGround","parking buiten LEZ",500,0
+"7368485bec1dcef7c4f891e31bbcc728fc44664d",2,1,"Mobiliteitsbedrijf Gent",332,"Bovengrondse parkeergarage Het Getouw in Gent","2022-11-25T15:51:47+01:00","Getouw","24/7","offStreetParkingGround","parking buiten LEZ",340,0
+"6ae11b36dfd2e35a6ff4e22842d7dc4ac34e71cd",85,1,"Skidata",9,"Bovengrondse parkeergarage NMBS Dampoort in Gent","2022-11-25T15:50:48+01:00","B-Park Dampoort","24/7","offStreetParkingGround","parking buiten LEZ",60,0
+"d1ef8ec01c2bcda24085467a006aaa643497a589",84,1,"Mobiliteitsbedrijf Gent",77,"? parkeergarage Reep in Gent","2022-11-25T15:51:47+01:00","Reep","24/7","carPark","parking in LEZ",489,0

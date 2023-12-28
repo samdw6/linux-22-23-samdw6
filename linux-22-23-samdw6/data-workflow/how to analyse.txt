@@ -1,0 +1,33 @@
+#Install python3 on Ubuntu
+
+sudo apt-get update
+sudo apt-get install python3
+
+# Installation of Anaconda
+
+# download anaconda with browser
+
+chmod +x Anaconda3-2022.10-Linux-x86_64.sh
+
+# Install Anaconda
+./Anaconda3-2022.10-Linux-x86_64.sh
+
+# Create an anaconda environment
+
+conda create -n linuxproject
+conda activate linuxproject
+
+cd /home/sam/linux-22-23-samdw6/data-workflow/csv-data
+
+# list all installed packages in my virtual envirnment
+conda list
+conda install pip
+
+
+
+#We need to install python packages to analyse,read and write csv files and display the analysed results.
+# Therefore I will use pandas and matplotlib
+
+conda install pandas matplotlib
+
+

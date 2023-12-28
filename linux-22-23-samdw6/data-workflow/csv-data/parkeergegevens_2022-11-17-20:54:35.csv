@@ -1,0 +1,11 @@
+recordid,occupation,open,operatorinfo,freecapacity,description,lastupdate,name,openingtimedescription,type,categorie,totalcapacity,freeparking
+"1aab6aa329f1e19ab673a19fdae8c4904e3cec5e",64,1,"Mobiliteitsbedrijf Gent",220,"Ondergrondse parkeergarage Vrijdagmarkt in Gent","2022-11-16T20:03:45+01:00","Vrijdagmarkt",,"carPark","parking in LEZ",620,0
+"155982e51eb02cf39c53ad31a203f3890829d909",79,1,"Mobiliteitsbedrijf Gent",62,"Ondergrondse parkeergarage Sint-Michiels in Gent","2022-11-16T20:03:45+01:00","Sint-Michiels",,"carPark","parking in LEZ",304,0
+"f931350bb37b59b1668fdc948d68f4e5a6ce3566",23,1,"Mobiliteitsbedrijf Gent",407,"Ondergrondse parkeergarage Savaanstraat in Gent","2022-11-16T20:03:45+01:00","Savaanstraat",,"carPark","parking in LEZ",530,0
+"335192e32844db0be621b2aaaeb2d0bea1a6e910",55,1,"Mobiliteitsbedrijf Gent",67,"Ondergrondse parkeergarage Tolhuis in Gent","2022-11-16T20:03:45+01:00","Tolhuis",,"offStreetParkingGround","parking in LEZ",150,0
+"f071426254b90efe84e6aae1b110df7198a82bb9",16,1,"Mobiliteitsbedrijf Gent",419,"Bovengrondse parkeergarage Ledeberg in Gent","2022-11-16T20:03:45+01:00","Ledeberg",,"offStreetParkingGround","parking buiten LEZ",500,0
+"46daeb3b9ba063b0e288129ba803a762110381d9",50,1,"Mobiliteitsbedrijf Gent",222,"? parkeergarage Reep in Gent","2022-11-16T20:03:45+01:00","Reep",,"carPark","parking in LEZ",449,0
+"5de86f4b635d2b781829806208bb5b422c1df754",98,1,"Mobiliteitsbedrijf Gent",14,"? parkeergarage Sint-Pietersplein in Gent","2022-11-16T20:03:45+01:00","Sint-Pietersplein",,"carPark","parking in LEZ",708,0
+"1570198197f623d06fa3fc8bab472d40c502ac23",70,1,"Mobiliteitsbedrijf Gent",77,"Ondergrondse parkeergarage Ramen in Gent","2022-11-16T20:03:45+01:00","Ramen",,"carPark","parking in LEZ",260,0
+"d244aa6acb02260e4ea8b673fa1aa43c6424376f",0,1,"Mobiliteitsbedrijf Gent",340,"Bovengrondse parkeergarage Het Getouw in Gent","2022-11-16T20:03:45+01:00","Getouw",,"offStreetParkingGround","parking buiten LEZ",340,0
+"cea14071ed0bbb3dbd008dc69db97ed2adba6d27",7,1,"Skidata",186,"Bovengrondse parkeergarage NMBS Dampoort in Gent","2022-11-16T20:02:25+01:00","B-Park Dampoort",,"offStreetParkingGround","parking buiten LEZ",200,0
